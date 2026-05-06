@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frantufro.github.io/handbook-0pz8kx/sitemap.xml
